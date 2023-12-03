@@ -25,3 +25,10 @@ This is a simple shop application built with Laravel and Stripe.
 5. Run `php artisan migrate`
 6. Run `php artisan db:seed`
 7. Run `php artisan serve`
+
+## Demo
+You can find a demo of this application at [https://demo.arabinda.me/laravel-stripe-shop/](https://demo.arabinda.me/laravel-stripe-shop/).
+
+## Demo Credentials
+- Email: `demo@example.com`
+- Password: `12345678`
